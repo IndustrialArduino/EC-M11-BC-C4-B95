@@ -1,4 +1,4 @@
-C4-#include <SPI.h>
+#include <SPI.h>
 #include "Adafruit_MAX31855.h"
 
 const int GSM_RST = 32;
